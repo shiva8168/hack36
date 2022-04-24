@@ -1,0 +1,18 @@
+.nav{
+    display: inline;
+}
+.nav li{
+    display: inline;
+    color: rgb(84, 12, 192);
+    font-size: 25px;
+}
+.nav li a{
+    display: inline;
+    color:rgba(12, 66, 229, 0.96);
+    text-decoration: none;
+    padding: 34px 25px;
+}
+.nav li a:hover,.nav li a:active{
+    text-decoration: underline;
+    color: brown;
+}
